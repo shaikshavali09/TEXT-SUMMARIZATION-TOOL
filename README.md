@@ -25,3 +25,6 @@ One of the strengths of this summarization tool is its adaptability. Since it is
 The benefits of this tool are significant. It reduces reading time, enhances productivity, and supports decision-making by presenting only the most relevant information. For students, it simplifies the process of reviewing study materials. For professionals, it helps in quickly analyzing lengthy reports. In addition, journalists and content creators can use it to generate concise summaries for readers who prefer quick insights.
 
 In conclusion, the Text Summarization Tool is a practical application of NLP that addresses the growing need to efficiently manage and consume textual information. By combining preprocessing, word frequency analysis, and sentence ranking, the system provides coherent summaries that retain the essence of the original content. This project not only demonstrates the power of NLP in real-world scenarios but also highlights how automation can simplify knowledge processing in the modern world.
+
+
+<img width="533" height="102" alt="Image" src="https://github.com/user-attachments/assets/3a598661-15b1-4570-992e-1b9f702c0e93" />
